@@ -10,4 +10,6 @@ Since the network starts with a slightly brighter image, the random noise (the g
 
 Better Network Performance: 
 The enhancement network doesn't have to work as hard or perform such extreme amplification to bring out the details. This usually results in a much cleaner final image—less digital-looking junk and a more realistic restoration of color and texture.Essentially, we made the simulated low-light problem slightly easier for the deep learning network to solve, and the final picture will look noticeably less noisy and more defined.
+
+
 ![images](https://github.com/Khan548-codes/Lab-10---Low-Light-Image-Enhancement-with-a-Pretrained-SID-Model/blob/main/images/Screenshot%202025-11-20%20105228.png)
